@@ -13,7 +13,7 @@
         - Direction
         - Dot Product
 4. Images
-	- 외부(External)
+	- External
     	- ![GitHub Icon.](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/330px-Unity_Technologies_logo.svg.png)
     	- ![Physx Logo.](./Images/Logo.png.png)
 5. Table
