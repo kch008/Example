@@ -1,8 +1,8 @@
-# Stydy Notes
+ï»¿# Stydy Notes
 1. Charp
-	1. º¯¼ö
-	1. ÀÚ·áÇü
-	1. Å©±â¿Í ¹øÀ§
+	1. ë³€ìˆ˜
+	1. ìë£Œí˜•
+	1. í¬ê¸°ì™€ ë²ˆìœ„
 2. Unity
 	- Editor
     	- Transform
